@@ -24,7 +24,7 @@ const Home = () => {
             Галерея
           </h1>
         </div>
-        <div className="flex h-screen cursor-pointer items-center justify-center bg-[url('../assets/pic3.gif')]  bg-cover bg-center bg-no-repeat sm:row-start-2 sm:row-end-3 sm:mr-4">
+        <div className="flex h-screen cursor-pointer items-center justify-center bg-[url('../assets/pic3.jpg')]  bg-cover bg-center bg-no-repeat sm:row-start-2 sm:row-end-3 sm:mr-4">
           <h1 className="w-2/5 text-center font-serif text-2xl font-bold text-white sm:text-5xl">
             Видео
           </h1>
