@@ -6,7 +6,7 @@ function about() {
         <div className="h-screen w-full text-center font-serif sm:w-3/6">
           <h1 className="mb-4 pt-20 text-5xl">About My Work</h1>
           <h2 className="mb-2 text-2xl"> The Photoshoots</h2>
-          <p className="text-md p-10">
+          <p className="text-md p-5">
             Want the perfect image for your invitations, or more time to perfect
             your wedding day poses? I’m available to shoot you and your husband
             or wife to be in a private photo shoot designed to bring the romance
@@ -23,7 +23,7 @@ function about() {
         <div className=" h-screen w-full text-center  font-serif sm:w-3/6 ">
           <h1 className="mb-4 pt-20 text-5xl">About Me</h1>
           <h2 className="mb-2 text-2xl"> In A Few Words</h2>
-          <p className="text-md p-10">
+          <p className="text-md p-5">
             Hello, I’m Isla. I’ve been working as a professional wedding
             photographer for almost a decade, and love creating lasting memories
             of people’s special day. I’m skilled at being discrete and creative
