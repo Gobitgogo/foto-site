@@ -3,7 +3,7 @@ function about() {
     <>
       <div className=" mt-5 flex w-full flex-col sm:flex-row">
         <div className="mr-5 w-full sm:w-3/6">
-          <div className="h-screen  w-full border bg-[url('../assets/pic5.avif')]  bg-cover bg-center bg-no-repeat "></div>
+          <div className="h-screen  w-full border bg-[url('../assets/pic5.jpg')]  bg-cover bg-center bg-no-repeat "></div>
           <div className="h-screen w-full text-center font-serif">
             <h1 className="mb-4 pt-20 text-5xl">About My Work</h1>
             <h2 className="mb-2 text-2xl"> The Photoshoots</h2>

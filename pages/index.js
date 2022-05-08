@@ -13,7 +13,7 @@ const Home = () => {
       </div>
       <div className="mt-20 grid w-full grid-cols-1 border-stone-900 marker:border sm:grid-cols-2">
         <Link href="about">
-          <div className="mb-4 flex h-screen cursor-pointer items-center justify-center bg-[url('../assets/pic2.avif')]  bg-cover bg-center bg-no-repeat sm:row-start-1 sm:row-end-2 sm:mr-4">
+          <div className="mb-4 flex h-screen cursor-pointer items-center justify-center bg-[url('../assets/pic2.jpg')]  bg-cover bg-center bg-no-repeat sm:row-start-1 sm:row-end-2 sm:mr-4">
             <a className="w-2/5 text-center font-serif text-2xl font-bold text-white sm:text-5xl">
               Обо мне
             </a>
@@ -24,7 +24,7 @@ const Home = () => {
             Галерея
           </h1>
         </div>
-        <div className="flex h-screen cursor-pointer items-center justify-center bg-[url('../assets/pic3.avif')]  bg-cover bg-center bg-no-repeat sm:row-start-2 sm:row-end-3 sm:mr-4">
+        <div className="flex h-screen cursor-pointer items-center justify-center bg-[url('../assets/pic3.gif')]  bg-cover bg-center bg-no-repeat sm:row-start-2 sm:row-end-3 sm:mr-4">
           <h1 className="w-2/5 text-center font-serif text-2xl font-bold text-white sm:text-5xl">
             Видео
           </h1>
