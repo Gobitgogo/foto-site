@@ -1,6 +1,7 @@
 import Humburger from '../humburger/Humburger'
 import Link from 'next/link'
 
+
 function Header() {
   return (
     <div className=" right-0 flex w-full items-center justify-between whitespace-nowrap bg-zinc-200 pl-3 pt-5 font-bold text-black sm:pt-0">
