@@ -1,7 +1,6 @@
 import Humburger from '../humburger/Humburger'
 import Link from 'next/link'
 
-
 function Header() {
   return (
     <div className=" right-0 flex w-full items-center justify-between whitespace-nowrap bg-zinc-200 pl-3 pt-5 font-bold text-black sm:pt-0">
@@ -35,22 +34,22 @@ function Header() {
         </div>
         <Humburger>
           <Link href="about">
-            <a className="my-1 block cursor-pointer text-gray-400 hover:text-white">
+            <a className="my-5 block flex cursor-pointer justify-end text-xl text-gray-400 hover:text-white">
               Обо мне
             </a>
           </Link>
           <Link href="/">
-            <a className="my-1 block cursor-pointer text-gray-400 hover:text-white">
+            <a className="my-5 block flex cursor-pointer justify-end text-xl text-gray-400 hover:text-white">
               Галерея
             </a>
           </Link>
           <Link href="/">
-            <a className="my-1 block cursor-pointer text-gray-400 hover:text-white">
+            <a className="my-5 block flex cursor-pointer justify-end text-xl text-gray-400 hover:text-white">
               Видео
             </a>
           </Link>
           <Link href="/">
-            <a className="my-1 block cursor-pointer text-gray-400 hover:text-white">
+            <a className="my-5 block flex cursor-pointer justify-end text-xl text-gray-400 hover:text-white">
               Контакты
             </a>
           </Link>

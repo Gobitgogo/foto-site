@@ -28,7 +28,7 @@ const Humburger = ({ children }, ...restProps) => {
       <div
         className={`${
           !isOpen ? 'hidden' : ''
-        } absolute right-5 my-5 bg-neutral-800 p-5  sm:hidden`}
+        } absolute right-0 my-5 w-full bg-neutral-800  p-5 sm:hidden`}
       >
         {children}
       </div>
