@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 const Home = () => {
   return (
-    <>
+    <> 
       <div className=" top-0 left-0 right-0 flex h-screen max-w-7xl flex-col bg-[url('../assets/pic1.jpg')] bg-cover bg-center bg-no-repeat">
         <div className="flex h-full w-full items-center justify-center">
           <h1 className="flex w-2/5 text-center font-serif text-2xl font-bold text-white sm:text-5xl">
